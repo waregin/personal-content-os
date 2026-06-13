@@ -1,3 +1,6 @@
+# Corpus input files (personal documents — never commit)
+input/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
